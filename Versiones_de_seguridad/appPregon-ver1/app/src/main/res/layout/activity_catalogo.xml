@@ -193,6 +193,18 @@
                             android:textSize="18sp"
                             android:textStyle="bold" />
 
+                        <Button
+                            android:id="@+id/detalles2"
+                            android:textSize="15dp"
+                            android:fontFamily="@font/carterone"
+                            android:textColor="@color/black"
+                            android:text="DETALLES"
+                            android:background="@color/amabase"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="10dp"
+                            />
+
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
 
@@ -243,6 +255,18 @@
                             android:textColor="@color/black"
                             android:textSize="18sp"
                             android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/detalles3"
+                            android:textSize="15dp"
+                            android:fontFamily="@font/carterone"
+                            android:textColor="@color/black"
+                            android:text="DETALLES"
+                            android:background="@color/amabase"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="10dp"
+                            />
 
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
@@ -295,6 +319,18 @@
                             android:textSize="18sp"
                             android:textStyle="bold" />
 
+                        <Button
+                            android:id="@+id/detalles4"
+                            android:textSize="15dp"
+                            android:fontFamily="@font/carterone"
+                            android:textColor="@color/black"
+                            android:text="DETALLES"
+                            android:background="@color/amabase"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="10dp"
+                            />
+
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
 
@@ -345,6 +381,18 @@
                             android:textSize="18sp"
                             android:textStyle="bold" />
 
+                        <Button
+                            android:id="@+id/detalles5"
+                            android:textSize="15dp"
+                            android:fontFamily="@font/carterone"
+                            android:textColor="@color/black"
+                            android:text="DETALLES"
+                            android:background="@color/amabase"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="10dp"
+                            />
+
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
 
@@ -393,6 +441,18 @@
                             android:textColor="@color/black"
                             android:textSize="18sp"
                             android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/detalles6"
+                            android:textSize="15dp"
+                            android:fontFamily="@font/carterone"
+                            android:textColor="@color/black"
+                            android:text="DETALLES"
+                            android:background="@color/amabase"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="10dp"
+                            />
 
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
@@ -443,6 +503,18 @@
                             android:textSize="18sp"
                             android:textStyle="bold" />
 
+                        <Button
+                            android:id="@+id/detalles7"
+                            android:textSize="15dp"
+                            android:fontFamily="@font/carterone"
+                            android:textColor="@color/black"
+                            android:text="DETALLES"
+                            android:background="@color/amabase"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="10dp"
+                            />
+
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
 
@@ -491,6 +563,18 @@
                             android:textColor="@color/black"
                             android:textSize="18sp"
                             android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/detalles8"
+                            android:textSize="15dp"
+                            android:fontFamily="@font/carterone"
+                            android:textColor="@color/black"
+                            android:text="DETALLES"
+                            android:background="@color/amabase"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="10dp"
+                            />
 
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>

@@ -21,5 +21,12 @@ class catalogo : AppCompatActivity() {
             val lanzar = Intent(this, producto::class.java)
             startActivity(lanzar)
         }
+
+        val botondetalles2=findViewById<Button>(R.id.detalles2)
+        botondetalles2.setOnClickListener {
+            val lanzar = Intent(this, producto2::class.java)
+            startActivity(lanzar)
+        }
+
     }
 }
