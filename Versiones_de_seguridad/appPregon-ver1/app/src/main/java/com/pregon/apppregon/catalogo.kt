@@ -28,5 +28,40 @@ class catalogo : AppCompatActivity() {
             startActivity(lanzar)
         }
 
+        val botondetalles3=findViewById<Button>(R.id.detalles3)
+        botondetalles3.setOnClickListener {
+            val lanzar = Intent(this, producto3::class.java)
+            startActivity(lanzar)
+        }
+
+        val botondetalles4=findViewById<Button>(R.id.detalles4)
+        botondetalles4.setOnClickListener {
+            val lanzar = Intent(this, producto4::class.java)
+            startActivity(lanzar)
+        }
+
+        val botondetalles5=findViewById<Button>(R.id.detalles5)
+        botondetalles5.setOnClickListener {
+            val lanzar = Intent(this, producto5::class.java)
+            startActivity(lanzar)
+        }
+
+        val botondetalles6=findViewById<Button>(R.id.detalles6)
+        botondetalles6.setOnClickListener {
+            val lanzar = Intent(this, producto6::class.java)
+            startActivity(lanzar)
+        }
+
+        val botondetalles7=findViewById<Button>(R.id.detalles7)
+        botondetalles7.setOnClickListener {
+            val lanzar = Intent(this, producto7::class.java)
+            startActivity(lanzar)
+        }
+
+        val botondetalles8=findViewById<Button>(R.id.detalles8)
+        botondetalles8.setOnClickListener {
+            val lanzar = Intent(this, producto8::class.java)
+            startActivity(lanzar)
+        }
     }
 }

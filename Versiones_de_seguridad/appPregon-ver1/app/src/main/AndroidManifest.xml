@@ -12,6 +12,21 @@
         android:theme="@style/Theme.AppCompat.NoActionBar"
         tools:targetApi="31">
         <activity
+            android:name=".producto8"
+            android:exported="false" />
+        <activity
+            android:name=".producto7"
+            android:exported="false" />
+        <activity
+            android:name=".producto6"
+            android:exported="false" />
+        <activity
+            android:name=".producto5"
+            android:exported="false" />
+        <activity
+            android:name=".producto4"
+            android:exported="false" />
+        <activity
             android:name=".producto3"
             android:exported="false" />
         <activity
