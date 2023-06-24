@@ -10,5 +10,10 @@ class producto4 : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_producto4)
 
+        val volver4=findViewById<Button>(R.id.atras4)
+        volver4.setOnClickListener {
+            val lanzar = Intent(this, catalogo::class.java)
+            startActivity(lanzar)
+        }
     }
 }
