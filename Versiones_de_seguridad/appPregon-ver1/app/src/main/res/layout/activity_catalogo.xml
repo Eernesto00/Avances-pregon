@@ -36,7 +36,7 @@
                 android:id="@+id/buttonlist"
                 android:layout_below="@id/txtcatalogo"
                 android:layout_alignParentRight="true"
-                android:layout_width="250dp"
+                android:layout_width="260dp"
                 android:layout_height="50dp"
                 android:backgroundTint="@color/white"
                />
@@ -45,6 +45,7 @@
                 android:id="@+id/filtro"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
                 android:layout_alignBaseline="@+id/buttonlist"
                 android:layout_toLeftOf="@id/buttonlist"
                 android:backgroundTint="@color/amabase"
