@@ -35,23 +35,11 @@
             <Button
                 android:id="@+id/buttonlist"
                 android:layout_below="@id/txtcatalogo"
-                android:layout_centerHorizontal="true"
-                android:layout_width="170dp"
+                android:layout_alignParentRight="true"
+                android:layout_width="250dp"
                 android:layout_height="50dp"
                 android:backgroundTint="@color/white"
                />
-
-            <Button
-                android:id="@+id/btncarro"
-                android:layout_toRightOf="@id/buttonlist"
-                android:layout_alignBaseline="@+id/buttonlist"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:backgroundTint="@color/amabase"
-                android:fontFamily="@font/carterone"
-                android:text="carrito"
-                android:textColor="@color/black"
-                 />
 
             <Button
                 android:id="@+id/filtro"

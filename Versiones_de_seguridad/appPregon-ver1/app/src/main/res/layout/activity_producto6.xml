@@ -117,21 +117,8 @@
                             android:text="VOLVER"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:layout_marginTop="10dp"
+                            android:layout_marginTop="50dp"
                             android:layout_marginBottom="10dp"/>
-
-                        <Button
-                            android:id="@+id/btnaña6"
-                            android:layout_width="match_parent"
-                            android:layout_height="wrap_content"
-                            android:layout_marginTop="10dp"
-                            android:layout_marginBottom="10dp"
-                            android:background="@color/amabase"
-                            android:contentDescription="Se añadio al carrito"
-                            android:fontFamily="@font/carterone"
-                            android:text="AÑADIR AL CARRITO"
-                            android:textColor="@color/black"
-                            android:textSize="30dp" />
 
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>

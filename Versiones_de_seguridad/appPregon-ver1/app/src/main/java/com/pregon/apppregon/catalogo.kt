@@ -10,11 +10,9 @@ class catalogo : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_catalogo)
 
-        val boton1=findViewById<Button>(R.id.btncarro)
-        boton1.setOnClickListener {
-            val lanzar = Intent(this,carrito::class.java)
-            startActivity(lanzar)
-        }
+
+
+
 
         val botondetalles=findViewById<Button>(R.id.detalles)
         botondetalles.setOnClickListener {
