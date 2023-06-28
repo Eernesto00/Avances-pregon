@@ -32,25 +32,34 @@
                 android:textSize="45sp"
                  />
 
-            <Button
-                android:id="@+id/buttonlist"
+            <EditText
+                android:id="@+id/txtlist"
+                android:layout_width="247dp"
+                android:layout_height="wrap_content"
                 android:layout_below="@id/txtcatalogo"
                 android:layout_alignParentRight="true"
-                android:layout_width="260dp"
-                android:layout_height="50dp"
-                android:backgroundTint="@color/white"
-               />
+                android:layout_marginTop="21dp"
+                android:background="@color/white"
+                android:fontFamily="@font/carterone"
+                android:hint="Buscar"
+                android:textAlignment="center"
+                android:textColor="@color/black"
+                android:textColorHint="#9A9A9A" />
 
             <Button
-                android:id="@+id/filtro"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
+                android:id="@+id/añadir"
+                android:layout_width="128dp"
+                android:layout_height="38dp"
+                android:layout_below="@id/txtcatalogo"
                 android:layout_alignParentLeft="true"
-                android:layout_alignBaseline="@+id/buttonlist"
-                android:layout_toLeftOf="@id/buttonlist"
+                android:layout_marginLeft="-2dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginRight="2dp"
+                android:layout_toLeftOf="@id/txtlist"
                 android:backgroundTint="@color/amabase"
                 android:fontFamily="@font/carterone"
-                android:text="filtro"
+                android:text="Añadir"
+                android:textAllCaps="false"
                 android:textColor="@color/black" />
         </RelativeLayout>
         
