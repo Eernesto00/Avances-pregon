@@ -35,9 +35,7 @@
         <activity
             android:name=".producto"
             android:exported="false" />
-        <activity
-            android:name=".carrito"
-            android:exported="false" />
+
         <activity
             android:name=".catalogo"
             android:exported="false" />
