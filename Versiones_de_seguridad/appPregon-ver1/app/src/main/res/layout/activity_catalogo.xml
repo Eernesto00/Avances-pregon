@@ -47,7 +47,7 @@
                 android:textColorHint="#9A9A9A" />
 
             <Button
-                android:id="@+id/añadir"
+                android:id="@+id/add"
                 android:layout_width="128dp"
                 android:layout_height="38dp"
                 android:layout_below="@id/txtcatalogo"

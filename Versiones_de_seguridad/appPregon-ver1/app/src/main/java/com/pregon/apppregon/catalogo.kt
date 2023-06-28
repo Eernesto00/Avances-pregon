@@ -10,10 +10,6 @@ class catalogo : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_catalogo)
 
-
-
-
-
         val botondetalles=findViewById<Button>(R.id.detalles)
         botondetalles.setOnClickListener {
             val lanzar = Intent(this, producto::class.java)
@@ -59,6 +55,12 @@ class catalogo : AppCompatActivity() {
         val botondetalles8=findViewById<Button>(R.id.detalles8)
         botondetalles8.setOnClickListener {
             val lanzar = Intent(this, producto8::class.java)
+            startActivity(lanzar)
+        }
+
+        val add=findViewById<Button>(R.id.add)
+        add.setOnClickListener {
+            val lanzar = Intent(this, seguridad::class.java)
             startActivity(lanzar)
         }
     }
