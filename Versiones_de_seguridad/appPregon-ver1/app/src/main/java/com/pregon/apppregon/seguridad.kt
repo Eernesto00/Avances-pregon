@@ -18,12 +18,13 @@ class seguridad : AppCompatActivity() {
             startActivity(lanzar)
         }
 
+
+
         val validar = findViewById<Button>(R.id.validar)
         validar.setOnClickListener {
             val lanzar=Intent(this, addproducto::class.java)
             startActivity(lanzar)
         }
-
 
 
     }
