@@ -23,7 +23,7 @@
                 android:fontFamily="@font/carterone"
                 android:textSize="45sp"
                 android:layout_marginTop="15dp"
-                android:text="DETALLES 2"
+                android:text="DETALLES"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
 
@@ -59,7 +59,7 @@
                         <ImageView
                             android:layout_width="200dp"
                             android:layout_height="200dp"
-                            android:src="@mipmap/ic_launcher"
+                            android:src="@drawable/escurridornaranja"
                             android:layout_gravity="center_horizontal"
                             />
 
@@ -70,7 +70,7 @@
                             android:fontFamily="@font/carterone"
                             android:textColor="@color/black"
                             android:textSize="30dp"
-                            android:text="Nombre del producto"
+                            android:text="Escurridor"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             />
@@ -82,7 +82,7 @@
                             android:fontFamily="@font/carterone"
                             android:textColor="@color/black"
                             android:textSize="30dp"
-                            android:text="Precio"
+                            android:text="$ 4.000"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             />
@@ -98,6 +98,27 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             />
+
+                        <LinearLayout
+                            android:orientation="horizontal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+
+                            <Button
+                                android:background="#DF4A1B"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:layout_marginRight="10dp"
+                                />
+
+                            <Button
+                                android:id="@+id/colorverde"
+                                android:background="#29DA1C"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                />
+
+                        </LinearLayout>
 
                         <TextView
                             android:layout_gravity="center_horizontal"

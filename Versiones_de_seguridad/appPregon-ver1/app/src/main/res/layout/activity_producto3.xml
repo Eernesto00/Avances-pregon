@@ -24,7 +24,7 @@
                 android:fontFamily="@font/carterone"
                 android:textSize="45sp"
                 android:layout_marginTop="15dp"
-                android:text="DETALLES 3"
+                android:text="DETALLES"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
 
@@ -60,7 +60,7 @@
                         <ImageView
                             android:layout_width="200dp"
                             android:layout_height="200dp"
-                            android:src="@mipmap/ic_launcher"
+                            android:src="@drawable/coladorpequerosa"
                             android:layout_gravity="center_horizontal"
                             />
 
@@ -71,7 +71,7 @@
                             android:fontFamily="@font/carterone"
                             android:textColor="@color/black"
                             android:textSize="30dp"
-                            android:text="Nombre del producto"
+                            android:text="Colador pequeño"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             />
@@ -83,7 +83,7 @@
                             android:fontFamily="@font/carterone"
                             android:textColor="@color/black"
                             android:textSize="30dp"
-                            android:text="Precio"
+                            android:text="$ 1.000"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             />
@@ -100,6 +100,28 @@
                             android:layout_height="wrap_content"
                             />
 
+                        <LinearLayout
+                            android:orientation="horizontal"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+
+                            <Button
+                                android:background="#D39BCB"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                android:layout_marginRight="10dp"
+                                />
+
+                            <Button
+                                android:id="@+id/colorverde"
+                                android:background="#2C3DDD"
+                                android:layout_width="50dp"
+                                android:layout_height="50dp"
+                                />
+
+                        </LinearLayout>
+
+
                         <TextView
                             android:layout_gravity="center_horizontal"
                             android:fontFamily="@font/carterone"
@@ -107,7 +129,8 @@
                             android:textColor="@color/black"
                             android:text="Cantidad"
                             android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"/>
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="10dp"/>
 
                         <Button
                             android:id="@+id/atras3"

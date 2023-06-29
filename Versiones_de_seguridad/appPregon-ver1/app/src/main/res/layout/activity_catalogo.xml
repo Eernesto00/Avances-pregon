@@ -105,13 +105,13 @@
                             android:layout_height="80dp"
                             android:layout_gravity="center_horizontal"
                             android:paddingTop="10dp"
-                            android:src="@mipmap/ic_launcher" />
+                            android:src="@drawable/bandejaazul" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Producto 1"
+                            android:text="Bandeja plastica"
                             android:layout_marginTop="10dp"
                             android:textColor="@color/black"
                             android:textSize="18sp"
@@ -121,7 +121,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Precio"
+                            android:text="$ 6.000"
                             android:layout_marginTop="15dp"
                             android:layout_marginBottom="15dp"
                             android:textColor="@color/black"
@@ -168,13 +168,13 @@
                             android:layout_height="80dp"
                             android:layout_gravity="center_horizontal"
                             android:paddingTop="10dp"
-                            android:src="@mipmap/ic_launcher" />
+                            android:src="@drawable/escurridornaranja" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Producto 2"
+                            android:text="Escurridor"
                             android:layout_marginTop="10dp"
                             android:textColor="@color/black"
                             android:textSize="18sp"
@@ -184,7 +184,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Precio"
+                            android:text="Pre$ 4.000"
                             android:layout_marginTop="15dp"
                             android:layout_marginBottom="15dp"
                             android:textColor="@color/black"
@@ -231,13 +231,13 @@
                             android:layout_height="80dp"
                             android:layout_gravity="center_horizontal"
                             android:paddingTop="10dp"
-                            android:src="@mipmap/ic_launcher" />
+                            android:src="@drawable/coladorpequerosa" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Producto 3"
+                            android:text="Colador pequeño"
                             android:layout_marginTop="10dp"
                             android:textColor="@color/black"
                             android:textSize="18sp"
@@ -247,9 +247,9 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Precio"
                             android:layout_marginTop="15dp"
                             android:layout_marginBottom="15dp"
+                            android:text="$ 1.000"
                             android:textColor="@color/black"
                             android:textSize="18sp"
                             android:textStyle="bold" />
@@ -294,7 +294,7 @@
                             android:layout_height="80dp"
                             android:layout_gravity="center_horizontal"
                             android:paddingTop="10dp"
-                            android:src="@mipmap/ic_launcher" />
+                            android:src="@drawable/coladorgrandeazul" />
 
                         <TextView
                             android:layout_width="wrap_content"
