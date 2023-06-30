@@ -59,7 +59,7 @@
                         <ImageView
                             android:layout_width="200dp"
                             android:layout_height="200dp"
-                            android:src="@mipmap/ic_launcher"
+                            android:src="@drawable/cucharasoperanaranja"
                             android:layout_gravity="center_horizontal"
                             />
 
@@ -70,7 +70,7 @@
                             android:fontFamily="@font/carterone"
                             android:textColor="@color/black"
                             android:textSize="30dp"
-                            android:text="Nombre del producto"
+                            android:text="Cuchara Sopera "
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             />

@@ -300,8 +300,8 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Producto 4"
                             android:layout_marginTop="10dp"
+                            android:text="Colador Grande"
                             android:textColor="@color/black"
                             android:textSize="18sp"
                             android:textStyle="bold" />
@@ -310,7 +310,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Precio"
+                            android:text="$ 5.000"
                             android:layout_marginTop="15dp"
                             android:layout_marginBottom="15dp"
                             android:textColor="@color/black"
@@ -356,13 +356,13 @@
                             android:layout_height="80dp"
                             android:layout_gravity="center_horizontal"
                             android:paddingTop="10dp"
-                            android:src="@mipmap/ic_launcher" />
+                            android:src="@drawable/cucharaarrozazul" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Producto 5"
+                            android:text="Cuchara Arrocera"
                             android:layout_marginTop="10dp"
                             android:textColor="@color/black"
                             android:textSize="18sp"
