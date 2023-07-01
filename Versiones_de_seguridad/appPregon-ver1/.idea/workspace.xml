@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c283ee5d-a997-442e-af8c-ea66ad59a97c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/PNG/carro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/PNG/flecha continuar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/PNG/icono apk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/PNG/iconopequeño apk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/PNG/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/PNG/textura-base.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/PNG/textura.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/TIPOGRAFIA/Carter_One.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/TIPOGRAFIA/OFL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/TIPOGRAFIA/carter-one.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/.idea/render.experimental.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/androidTest/java/com/pregon/apppregon/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/java/com/pregon/apppregon/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/java/com/pregon/apppregon/catalogo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/java/com/pregon/apppregon/catalogo2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/java/com/pregon/apppregon/ui/gallery/GalleryFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/java/com/pregon/apppregon/ui/gallery/GalleryViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/java/com/pregon/apppregon/ui/home/HomeFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/java/com/pregon/apppregon/ui/home/HomeViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/java/com/pregon/apppregon/ui/slideshow/SlideshowFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/java/com/pregon/apppregon/ui/slideshow/SlideshowViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/drawable/carro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/drawable/ic_menu_camera.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/drawable/ic_menu_gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/drawable/ic_menu_slideshow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/drawable/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/drawable/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/drawable/side_nav_bar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/drawable/textura.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/font/anton_nomal.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/font/antonio_normal.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/font/carterone.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/layout/activity_catalogo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/layout/activity_catalogo2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/layout/app_bar_catalogo2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/layout/content_catalogo2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/layout/fragment_gallery.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/layout/fragment_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/layout/fragment_slideshow.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/layout/nav_header_catalogo2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/menu/activity_main_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/menu/catalogo2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/menu/menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/navigation/mobile_navigation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/navigation/mobile_navigation2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/values-land/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/values-w1240dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/values-w600dp/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/app/src/test/java/com/pregon/apppregon/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/appPregon-ver1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/Versiones_de_seguridad/comits/comit_ver1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/doc/plantilla para especificacion de caso de uso.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/doc/pregon de la economia.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/doc/requerimientos pregon de la economia.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/doc/~$antilla para especificacion de caso de uso.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/editar interfaz/interfaz administraador.xcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/editar interfaz/interfaz cliente.xcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variante_catalogo/variante catalogo/editar interfaz/interfaz registro de clientes.xcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/render.experimental.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/pregon/apppregon/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/ic_launcher-playstore.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pregon/apppregon/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pregon/apppregon/addproducto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pregon/apppregon/catalogo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pregon/apppregon/producto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pregon/apppregon/producto2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pregon/apppregon/producto3.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pregon/apppregon/producto4.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pregon/apppregon/producto5.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pregon/apppregon/producto6.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pregon/apppregon/producto7.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pregon/apppregon/producto8.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pregon/apppregon/seguridad.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/atras.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bandejaazul.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/carro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/coladorgrandeazul.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/coladorpequerosa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/cucharaarrozazul.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/cucharasoperanaranja.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/escurridornaranja.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/textura.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/font/anton_nomal.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/font/antonio_normal.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/font/carterone.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout-land/activity_catalogo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_addproducto.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_catalogo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_producto.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_producto2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_producto3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_producto4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_producto5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_producto6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_producto7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_producto8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_seguridad.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pregon/apppregon/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\User\.android\avd\Pixel_3a_API_26.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2Rn4w4ThJvmhVmxCXDrSME6R2wr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_directory_selection": "C:/Users/User/AndroidStudioProjects/Avances-pregon/Versiones_de_seguridad/appPregon-ver1/app/src/main/res/drawable",
+    "last_opened_file_path": "C:/Users/User/AndroidStudioProjects/Avances-pregon/Versiones_de_seguridad/appPregon-ver1",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.17",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\AndroidStudioProjects\Avances-pregon\Versiones_de_seguridad\appPregon-ver1\app\src\main\res\drawable" />
+    </key>
+    <key name="android.template.-1368912492">
+      <recent name="com.pregon.apppregon" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="appPregon.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c283ee5d-a997-442e-af8c-ea66ad59a97c" name="Changes" comment="" />
+      <created>1687872750974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687872750974</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
