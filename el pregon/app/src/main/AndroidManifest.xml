@@ -13,6 +13,45 @@
         android:theme="@style/Theme.ElPregon"
         tools:targetApi="31">
         <activity
+            android:name=".Registro"
+            android:exported="false" />
+        <activity
+            android:name=".Agregar1"
+            android:exported="false" />
+        <activity
+            android:name=".Agregar"
+            android:exported="false" />
+        <activity
+            android:name=".registro"
+            android:exported="false" />
+        <activity
+            android:name=".Producto_ocho"
+            android:exported="false" />
+        <activity
+            android:name=".Producto_siete"
+            android:exported="false" />
+        <activity
+            android:name=".Producto_seis"
+            android:exported="false" />
+        <activity
+            android:name=".Producto_cinco"
+            android:exported="false" />
+        <activity
+            android:name=".Producto_cuatro"
+            android:exported="false" />
+        <activity
+            android:name=".Producto_tres"
+            android:exported="false" />
+        <activity
+            android:name=".Producto_dos"
+            android:exported="false" />
+        <activity
+            android:name=".Producto_uno"
+            android:exported="false" />
+        <activity
+            android:name=".Catalogo"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
