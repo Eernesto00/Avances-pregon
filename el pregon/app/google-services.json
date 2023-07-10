@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "591071191275",
-    "project_id": "el-pregon",
-    "storage_bucket": "el-pregon.appspot.com"
+    "project_number": "129540104624",
+    "project_id": "el-pregon-de-la-economia",
+    "storage_bucket": "el-pregon-de-la-economia.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:591071191275:android:7b57391fda6d8e14739eae",
+        "mobilesdk_app_id": "1:129540104624:android:d5937cfb6c09a08f0bb675",
         "android_client_info": {
           "package_name": "com.pregon.elpregon"
         }
       },
       "oauth_client": [
         {
-          "client_id": "591071191275-clr1m44mnasjng2tod8kputdjcrm9m86.apps.googleusercontent.com",
+          "client_id": "129540104624-4rq390gnme36am1856pr6n7ek06e3t80.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDVLk4TgiuUNboAX92GAxsIxhY-pz8jAfY"
+          "current_key": "AIzaSyA-UGbfqBuKHTBImo1obP9S5tw0aWHwQVo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "591071191275-clr1m44mnasjng2tod8kputdjcrm9m86.apps.googleusercontent.com",
+              "client_id": "129540104624-4rq390gnme36am1856pr6n7ek06e3t80.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
