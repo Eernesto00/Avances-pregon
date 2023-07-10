@@ -118,7 +118,8 @@
                             android:onClick="prod_uno"
                             android:textColor="@color/black"
                             android:fontFamily="@font/carterone"
-                            android:layout_marginTop="-12dp"/>
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="5dp"/>
 
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
@@ -180,8 +181,9 @@
                             android:onClick="prod_dos"
                             android:textColor="@color/black"
                             android:fontFamily="@font/carterone"
-                            android:layout_marginTop="-12dp"/>
-                            />
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="5dp"/>
+
 
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
@@ -243,7 +245,8 @@
                             android:onClick="prod_tres"
                             android:textColor="@color/black"
                             android:fontFamily="@font/carterone"
-                            android:layout_marginTop="-12dp"/>
+                            android:layout_marginTop="-12dp"
+                            android:layout_marginBottom="5dp"/>
 
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
@@ -302,6 +305,7 @@
                             android:layout_height="wrap_content"
                             android:backgroundTint="@color/amabase"
                             android:text="DETALLES"
+                            android:layout_marginBottom="5dp"
                             android:onClick="prod_cuatro"
                             android:textColor="@color/black"
                             android:fontFamily="@font/carterone"
@@ -363,6 +367,7 @@
                             android:layout_height="wrap_content"
                             android:backgroundTint="@color/amabase"
                             android:text="DETALLES"
+                            android:layout_marginBottom="5dp"
                             android:onClick="prod_cinco"
                             android:textColor="@color/black"
                             android:fontFamily="@font/carterone"
@@ -423,6 +428,7 @@
                             android:layout_height="wrap_content"
                             android:backgroundTint="@color/amabase"
                             android:text="DETALLES"
+                            android:layout_marginBottom="5dp"
                             android:onClick="prod_seis"
                             android:textColor="@color/black"
                             android:fontFamily="@font/carterone"
@@ -483,6 +489,7 @@
                             android:layout_height="wrap_content"
                             android:backgroundTint="@color/amabase"
                             android:text="DETALLES"
+                            android:layout_marginBottom="5dp"
                             android:onClick="prod_siete"
                             android:textColor="@color/black"
                             android:fontFamily="@font/carterone"
@@ -543,6 +550,7 @@
                             android:layout_height="wrap_content"
                             android:backgroundTint="@color/amabase"
                             android:text="DETALLES"
+                            android:layout_marginBottom="5dp"
                             android:onClick="prod_ocho"
                             android:textColor="@color/black"
                             android:fontFamily="@font/carterone"

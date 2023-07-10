@@ -8,34 +8,49 @@
     android:layout_marginStart="16dp">
 
     <de.hdodenhof.circleimageview.CircleImageView
-        android:layout_width="60dp"
-        android:layout_height="60dp"
-        android:src="@drawable/flore"/>
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:src="@drawable/icon_person"/>
 
     <TextView
         android:id="@+id/user_"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="8dp"
-        android:textSize="20dp"
+        android:textSize="30dp"
         android:text="Daniela"
         android:textStyle="bold"
         android:textColor="@color/teal_700"/>
 
     <TextView
+        android:id="@+id/emailTextView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="danielasofiaflorez@gmail.com"
-        android:textSize="14dp"
+        android:textSize="20dp"
         android:padding="8dp"
         android:textStyle="bold"
-        android:textColor="@color/purple_200"/>
+        android:textColor="@color/purple_200"
+        android:layout_marginBottom="5dp"/>
+
+    <Button
+        android:id="@+id/button"
+        android:fontFamily="@font/carterone"
+        android:backgroundTint="@color/amabase"
+        android:textColor="@color/black"
+        android:textAllCaps="true"
+        android:textSize="16dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cerrar Sesion"/>
 
     <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:layout_marginTop="25dp"
         android:background="#BDBBBB"/>
+
+
 </LinearLayout>
 
 
