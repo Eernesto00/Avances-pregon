@@ -9,9 +9,20 @@ class Registro : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_registro)
+
+        //Setup
+        setup()
+
     }
-    fun atras1(view: View){
-        val intent= Intent(this,MainActivity::class.java).apply {  }
+
+    fun atras1(view: View) {
+        val intent = Intent(this, MainActivity::class.java).apply { }
         startActivity(intent)
     }
+
+    private fun setup(){
+
+
+    }
 }
+

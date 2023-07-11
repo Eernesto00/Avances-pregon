@@ -104,19 +104,10 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content">
 
-                            <Button
-                                android:background="#25379A"
-                                android:layout_width="50dp"
-                                android:layout_height="50dp"
-                                android:layout_marginRight="10dp"
-                                />
-
-                            <Button
-                                android:id="@+id/colorverde"
-                                android:background="#E1E1E1"
-                                android:layout_width="50dp"
-                                android:layout_height="50dp"
-                                />
+                           <TextView
+                               android:background="@color/amabase"
+                               android:layout_width="50dp"
+                               android:layout_height="50dp"/>
 
                         </LinearLayout>
 
