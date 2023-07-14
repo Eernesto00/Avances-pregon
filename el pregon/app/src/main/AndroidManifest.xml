@@ -13,6 +13,12 @@
         android:theme="@style/Theme.ElPregon"
         tools:targetApi="31">
         <activity
+            android:name=".Producto10"
+            android:exported="false" />
+        <activity
+            android:name=".Producto9"
+            android:exported="false" />
+        <activity
             android:name=".Registro"
             android:exported="false" />
         <activity
@@ -25,28 +31,28 @@
             android:name=".registro"
             android:exported="false" />
         <activity
-            android:name=".Producto_ocho"
+            android:name=".Producto8"
             android:exported="false" />
         <activity
-            android:name=".Producto_siete"
+            android:name=".Producto7"
             android:exported="false" />
         <activity
-            android:name=".Producto_seis"
+            android:name=".Producto6"
             android:exported="false" />
         <activity
-            android:name=".Producto_cinco"
+            android:name=".Producto5"
             android:exported="false" />
         <activity
-            android:name=".Producto_cuatro"
+            android:name=".Producto4"
             android:exported="false" />
         <activity
-            android:name=".Producto_tres"
+            android:name=".Producto3"
             android:exported="false" />
         <activity
-            android:name=".Producto_dos"
+            android:name=".Producto2"
             android:exported="false" />
         <activity
-            android:name=".Producto_uno"
+            android:name=".Producto1"
             android:exported="false" />
         <activity
             android:name=".Catalogo"

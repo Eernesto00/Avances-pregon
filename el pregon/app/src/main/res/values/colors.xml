@@ -7,4 +7,13 @@
     <color name="amabase">#FFC700</color>
     <color name="rojbase">#FF2E00</color>
 
+
+    <color name="azul">#FF2196F3</color>
+    <color name="verde">#10CD03</color>
+    <color name="naranja">#FF6600</color>
+    <color name="metalico">#FF7E858A</color>
+    <color name="cafe">#602702</color>
+    <color name="blanco">#8F8F8F</color>
+    <color name="morado">#2C1A5A</color>
+
 </resources>

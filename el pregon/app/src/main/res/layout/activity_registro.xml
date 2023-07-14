@@ -52,7 +52,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView">
 
         <EditText
-            android:id="@+id/emailEditText"
+            android:id="@+id/etEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@color/white"
@@ -68,7 +68,7 @@
             />
 
         <EditText
-            android:id="@+id/passwordeditText"
+            android:id="@+id/etPassword"
             android:hint="Contraseña"
             android:textColorHint="@color/black"
             android:fontFamily="@font/carterone"
@@ -83,6 +83,21 @@
             android:ems="10"
             android:inputType="textPassword"
             />
+
+
+        <Button
+            android:id="@+id/googleButton"
+            android:layout_marginBottom="12dp"
+            android:textAllCaps="true"
+            android:backgroundTint="@color/white"
+            android:fontFamily="@font/carterone"
+            android:textSize="20dp"
+            android:textColor="@color/black"
+            android:text="Iniciar con Google"
+            android:drawableLeft="@drawable/google"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
 
         <Button
             android:id="@+id/singUpButton"
@@ -111,5 +126,7 @@
             />
 
     </LinearLayout>
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -18,11 +18,7 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
-
-    buildFeatures{
-        viewBinding true
-    }
-
+    
     buildTypes {
         release {
             minifyEnabled false
@@ -56,4 +52,5 @@ dependencies {
 
     implementation(platform("com.google.firebase:firebase-bom:32.1.1"))
     implementation("com.google.firebase:firebase-auth-ktx")
+
 }

@@ -4,7 +4,6 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import android.widget.Button
 
 class Catalogo : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -16,35 +15,45 @@ class Catalogo : AppCompatActivity() {
         startActivity(intent)
     }
     fun prod_uno (view: View){
-        val intent= Intent(this, Producto_uno::class.java).apply {  }
+        val intent= Intent(this, Producto1::class.java).apply {  }
         startActivity(intent)
         }
     fun prod_dos (view: View){
-        val intent= Intent(this, Producto_dos::class.java).apply {  }
+        val intent= Intent(this, Producto2::class.java).apply {  }
         startActivity(intent)
         }
     fun prod_tres (view: View){
-        val intent= Intent(this, Producto_tres::class.java).apply {  }
+        val intent= Intent(this, Producto3::class.java).apply {  }
         startActivity(intent)
         }
     fun prod_cuatro (view: View){
-        val intent= Intent(this, Producto_cuatro::class.java).apply {  }
+        val intent= Intent(this, Producto4::class.java).apply {  }
         startActivity(intent)
         }
     fun prod_cinco (view: View){
-        val intent= Intent(this, Producto_cinco::class.java).apply {  }
+        val intent= Intent(this, Producto5::class.java).apply {  }
         startActivity(intent)
         }
     fun prod_seis (view: View){
-        val intent= Intent(this, Producto_seis::class.java).apply {  }
+        val intent= Intent(this, Producto6::class.java).apply {  }
         startActivity(intent)
         }
     fun prod_siete (view: View){
-        val intent= Intent(this, Producto_siete::class.java).apply {  }
+        val intent= Intent(this, Producto7::class.java).apply {  }
         startActivity(intent)
         }
     fun prod_ocho (view: View){
-        val intent= Intent(this, Producto_ocho::class.java).apply {  }
+        val intent= Intent(this, Producto8::class.java).apply {  }
         startActivity(intent)
         }
+
+    fun prod_9 (view: View){
+        val intent= Intent(this, Producto9::class.java).apply {  }
+        startActivity(intent)
+    }
+
+    fun prod_10 (view: View){
+        val intent= Intent(this, Producto10::class.java).apply {  }
+        startActivity(intent)
+    }
     }
