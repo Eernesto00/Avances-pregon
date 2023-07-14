@@ -11,6 +11,6 @@ class Agregar1 : AppCompatActivity() {
         setContentView(R.layout.activity_agregar1)
     }
     fun volver1(view: View){
-        val intent= Intent(this,Agregar::class.java).apply {  }
+        val intent= Intent(this,seguridad::class.java).apply {  }
         startActivity(intent)}
 }
