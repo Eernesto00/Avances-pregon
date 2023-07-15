@@ -13,69 +13,99 @@
         android:theme="@style/Theme.ElPregon"
         tools:targetApi="31">
         <activity
+            android:name=".Producto14"
+            android:exported="false" />
+        <activity
+            android:name=".Producto20"
+            android:exported="false" />
+        <activity
+            android:name=".Producto19"
+            android:exported="false" />
+        <activity
+            android:name=".Producto18"
+            android:exported="false" />
+        <activity
+            android:name=".Producto17"
+            android:exported="false" />
+        <activity
+            android:name=".Producto16"
+            android:exported="false" />
+        <activity
+            android:name=".Producto15"
+            android:exported="false" />
+        <activity
+            android:name=".Producto13"
+            android:exported="false" />
+        <activity
+            android:name=".Producto12"
+            android:exported="false" />
+        <activity
+            android:name=".Producto11"
+            android:exported="false" />
+        <activity
             android:name=".Manual"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".Producto10"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".Producto9"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".Registro"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".Agregar1"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".seguridad"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".registro"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".Producto8"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".Producto7"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".Producto6"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".Producto5"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".Producto4"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".Producto3"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".Producto2"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".Producto1"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".Catalogo"
             android:exported="false"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait" />
         <activity
             android:name=".MainActivity"
             android:exported="true"

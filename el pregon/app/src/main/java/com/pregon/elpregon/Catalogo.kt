@@ -56,4 +56,54 @@ class Catalogo : AppCompatActivity() {
         val intent= Intent(this, Producto10::class.java).apply {  }
         startActivity(intent)
     }
+
+    fun prod_11 (view: View){
+        val intent= Intent(this, Producto11::class.java).apply {  }
+        startActivity(intent)
+    }
+
+    fun prod_12 (view: View){
+        val intent= Intent(this, Producto12::class.java).apply {  }
+        startActivity(intent)
+    }
+
+    fun prod_13 (view: View){
+        val intent= Intent(this, Producto13::class.java).apply {  }
+        startActivity(intent)
+    }
+
+    fun prod_14 (view: View){
+        val intent= Intent(this, Producto14::class.java).apply {  }
+        startActivity(intent)
+    }
+
+    fun prod_15 (view: View){
+        val intent= Intent(this, Producto15::class.java).apply {  }
+        startActivity(intent)
+    }
+
+    fun prod_16 (view: View){
+        val intent= Intent(this, Producto16::class.java).apply {  }
+        startActivity(intent)
+    }
+
+    fun prod_17 (view: View){
+        val intent= Intent(this, Producto17::class.java).apply {  }
+        startActivity(intent)
+    }
+
+    fun prod_18 (view: View){
+        val intent= Intent(this, Producto18::class.java).apply {  }
+        startActivity(intent)
+    }
+
+    fun prod_19 (view: View){
+        val intent= Intent(this, Producto19::class.java).apply {  }
+        startActivity(intent)
+    }
+
+    fun prod_20 (view: View){
+        val intent= Intent(this, Producto20::class.java).apply {  }
+        startActivity(intent)
+    }
     }

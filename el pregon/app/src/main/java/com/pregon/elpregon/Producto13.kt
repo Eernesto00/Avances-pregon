@@ -4,13 +4,14 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-class Agregar1 : AppCompatActivity() {
 
+class Producto13 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_agregar1)
+        setContentView(R.layout.activity_producto13)
     }
-    fun volver1(view: View){
-        val intent= Intent(this,seguridad::class.java).apply {  }
-        startActivity(intent)}
+    fun atras(view: View){
+        val intent= Intent(this,Catalogo::class.java).apply {  }
+        startActivity(intent)
+    }
 }

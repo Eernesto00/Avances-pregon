@@ -718,13 +718,13 @@
                             android:layout_height="80dp"
                             android:layout_gravity="center_horizontal"
                             android:paddingTop="10dp"
-                            android:src="@drawable/portasalsanaranja" />
+                            android:src="@drawable/ganchos" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Porta Salsa"
+                            android:text="Ganchos"
                             android:layout_marginTop="10dp"
                             android:textAlignment="center"
                             android:textColor="@color/black"
@@ -735,7 +735,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="$ 1.000"
+                            android:text="$ 5.000"
                             android:layout_marginTop="15dp"
                             android:layout_marginBottom="15dp"
                             android:textColor="@color/black"
@@ -780,13 +780,13 @@
                             android:layout_height="80dp"
                             android:layout_gravity="center_horizontal"
                             android:paddingTop="10dp"
-                            android:src="@drawable/portasalsanaranja" />
+                            android:src="@drawable/escuridor_aluminio" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Porta Salsa"
+                            android:text="Escurridor Aluminio"
                             android:layout_marginTop="10dp"
                             android:textAlignment="center"
                             android:textColor="@color/black"
@@ -797,7 +797,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="$ 1.000"
+                            android:text="$ 18.000"
                             android:layout_marginTop="15dp"
                             android:layout_marginBottom="15dp"
                             android:textColor="@color/black"
@@ -842,13 +842,13 @@
                             android:layout_height="80dp"
                             android:layout_gravity="center_horizontal"
                             android:paddingTop="10dp"
-                            android:src="@drawable/portasalsanaranja" />
+                            android:src="@drawable/porta_cepeilo_azul" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Porta Salsa"
+                            android:text="Porta Cepillo"
                             android:layout_marginTop="10dp"
                             android:textAlignment="center"
                             android:textColor="@color/black"
@@ -904,13 +904,13 @@
                             android:layout_height="80dp"
                             android:layout_gravity="center_horizontal"
                             android:paddingTop="10dp"
-                            android:src="@drawable/portasalsanaranja" />
+                            android:src="@drawable/rallador_verdelimon"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Porta Salsa"
+                            android:text="Rallador"
                             android:layout_marginTop="10dp"
                             android:textAlignment="center"
                             android:textColor="@color/black"
@@ -921,7 +921,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="$ 1.000"
+                            android:text="$ 7.000"
                             android:layout_marginTop="15dp"
                             android:layout_marginBottom="15dp"
                             android:textColor="@color/black"
@@ -942,6 +942,8 @@
 
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
+
+
 
                 <androidx.cardview.widget.CardView
                     android:layout_width="150dp"
@@ -966,13 +968,13 @@
                             android:layout_height="80dp"
                             android:layout_gravity="center_horizontal"
                             android:paddingTop="10dp"
-                            android:src="@drawable/portasalsanaranja" />
+                            android:src="@drawable/bolinillo"/>
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Porta Salsa"
+                            android:text="Bolinillo"
                             android:layout_marginTop="10dp"
                             android:textAlignment="center"
                             android:textColor="@color/black"
@@ -983,7 +985,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="$ 1.000"
+                            android:text="$ 3.000"
                             android:layout_marginTop="15dp"
                             android:layout_marginBottom="15dp"
                             android:textColor="@color/black"
@@ -1028,13 +1030,13 @@
                             android:layout_height="80dp"
                             android:layout_gravity="center_horizontal"
                             android:paddingTop="10dp"
-                            android:src="@drawable/portasalsanaranja" />
+                            android:src="@drawable/correa" />
 
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="Porta Salsa"
+                            android:text="Correa Hombre"
                             android:layout_marginTop="10dp"
                             android:textAlignment="center"
                             android:textColor="@color/black"
@@ -1045,7 +1047,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
-                            android:text="$ 1.000"
+                            android:text="$ 25.000"
                             android:layout_marginTop="15dp"
                             android:layout_marginBottom="15dp"
                             android:textColor="@color/black"
@@ -1060,6 +1062,254 @@
                             android:text="DETALLES"
                             android:layout_marginBottom="5dp"
                             android:onClick="prod_16"
+                            android:textColor="@color/black"
+                            android:fontFamily="@font/carterone"
+                            android:layout_marginTop="-12dp"/>
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="150dp"
+                    android:layout_height="250dp"
+                    android:layout_row="9"
+                    android:layout_rowWeight="1"
+                    android:layout_column="0"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="12dp"
+                    app:cardCornerRadius="15dp"
+                    app:cardElevation="12dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@color/white"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:layout_gravity="center_horizontal"
+                            android:paddingTop="10dp"
+                            android:src="@drawable/cuchara_madera_grande" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="Cuchara Grande"
+                            android:layout_marginTop="10dp"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="$ 3.000"
+                            android:layout_marginTop="15dp"
+                            android:layout_marginBottom="15dp"
+                            android:textColor="@color/black"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/detalles17"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:backgroundTint="@color/amabase"
+                            android:text="DETALLES"
+                            android:layout_marginBottom="5dp"
+                            android:onClick="prod_17"
+                            android:textColor="@color/black"
+                            android:fontFamily="@font/carterone"
+                            android:layout_marginTop="-12dp"/>
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="150dp"
+                    android:layout_height="250dp"
+                    android:layout_row="9"
+                    android:layout_rowWeight="1"
+                    android:layout_column="1"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="12dp"
+                    app:cardCornerRadius="15dp"
+                    app:cardElevation="12dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@color/white"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:layout_gravity="center_horizontal"
+                            android:paddingTop="10dp"
+                            android:src="@drawable/jarra_jugo" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="Jarra Jugo"
+                            android:layout_marginTop="10dp"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="$ 10.000"
+                            android:layout_marginTop="15dp"
+                            android:layout_marginBottom="15dp"
+                            android:textColor="@color/black"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/detalles18"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:backgroundTint="@color/amabase"
+                            android:text="DETALLES"
+                            android:layout_marginBottom="5dp"
+                            android:onClick="prod_18"
+                            android:textColor="@color/black"
+                            android:fontFamily="@font/carterone"
+                            android:layout_marginTop="-12dp"/>
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="150dp"
+                    android:layout_height="250dp"
+                    android:layout_row="10"
+                    android:layout_rowWeight="1"
+                    android:layout_column="0"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="12dp"
+                    app:cardCornerRadius="15dp"
+                    app:cardElevation="12dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@color/white"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:layout_gravity="center_horizontal"
+                            android:paddingTop="10dp"
+                            android:src="@drawable/martillo_carne" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="Martillo Carne"
+                            android:layout_marginTop="10dp"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="$ 7.000"
+                            android:layout_marginTop="15dp"
+                            android:layout_marginBottom="15dp"
+                            android:textColor="@color/black"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/detalles19"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:backgroundTint="@color/amabase"
+                            android:text="DETALLES"
+                            android:layout_marginBottom="5dp"
+                            android:onClick="prod_19"
+                            android:textColor="@color/black"
+                            android:fontFamily="@font/carterone"
+                            android:layout_marginTop="-12dp"/>
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="150dp"
+                    android:layout_height="250dp"
+                    android:layout_row="10"
+                    android:layout_rowWeight="1"
+                    android:layout_column="1"
+                    android:layout_columnWeight="1"
+                    android:layout_margin="12dp"
+                    app:cardCornerRadius="15dp"
+                    app:cardElevation="12dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="@color/white"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <ImageView
+                            android:layout_width="80dp"
+                            android:layout_height="80dp"
+                            android:layout_gravity="center_horizontal"
+                            android:paddingTop="10dp"
+                            android:src="@drawable/molde_medium" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="Molde Mediano"
+                            android:layout_marginTop="10dp"
+                            android:textAlignment="center"
+                            android:textColor="@color/black"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:text="$ 10.000"
+                            android:layout_marginTop="15dp"
+                            android:layout_marginBottom="15dp"
+                            android:textColor="@color/black"
+                            android:textSize="18sp"
+                            android:textStyle="bold" />
+
+                        <Button
+                            android:id="@+id/detalles20"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:backgroundTint="@color/amabase"
+                            android:text="DETALLES"
+                            android:layout_marginBottom="5dp"
+                            android:onClick="prod_20"
                             android:textColor="@color/black"
                             android:fontFamily="@font/carterone"
                             android:layout_marginTop="-12dp"/>

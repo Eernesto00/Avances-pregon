@@ -4,6 +4,7 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.MenuItem
+import android.view.View
 import android.widget.Toast
 import androidx.appcompat.app.ActionBarDrawerToggle
 import androidx.drawerlayout.widget.DrawerLayout
@@ -16,6 +17,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+
 
         val drawerLayout: DrawerLayout = findViewById(R.id.drawerlayout)
         val navView: NavigationView = findViewById(R.id.nav_view)
@@ -55,5 +58,11 @@ class MainActivity : AppCompatActivity() {
             return true
         }
         return super.onOptionsItemSelected(item)
+
+
+    }
+
+    fun showToast(view: View) {
+        Toast.makeText(this, "Desliza desde la izquierda para desplegar el menú", Toast.LENGTH_LONG).show()
     }
 }
