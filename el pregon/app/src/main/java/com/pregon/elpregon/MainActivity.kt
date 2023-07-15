@@ -37,10 +37,6 @@ class MainActivity : AppCompatActivity() {
                     startActivity(intento1)}
                 //Toast.makeText(this, "Iniciar Catalogo", Toast.LENGTH_LONG).show()//
 
-                R.id.mesa -> {var intento1 = Intent(this, seguridad::class.java)
-                    startActivity(intento1)}
-
-                    //Toast.makeText(this, "Agregado", Toast.LENGTH_LONG).show()//
                 R.id.soporte -> {var intento1 = Intent(this, Registro::class.java)
                     startActivity(intento1)}
                     //Toast.makeText(this, "Registro Exitoso", Toast.LENGTH_LONG).show()//
