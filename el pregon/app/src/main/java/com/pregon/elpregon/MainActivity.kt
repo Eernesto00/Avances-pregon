@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
                     startActivity(intento1)}
                 //Toast.makeText(this, "Iniciar Catalogo", Toast.LENGTH_LONG).show()//
 
-                R.id.soporte -> {var intento1 = Intent(this, Registro::class.java)
+                R.id.soporte -> {var intento1 = Intent(this, Ofertas::class.java)
                     startActivity(intento1)}
                     //Toast.makeText(this, "Registro Exitoso", Toast.LENGTH_LONG).show()//
                 R.id.clave -> Toast.makeText(this, "Bienvenido al Manual", Toast.LENGTH_LONG).show()

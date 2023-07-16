@@ -10,7 +10,7 @@
 
     <item android:id="@+id/soporte"
         android:icon="@drawable/ic_registro"
-        android:title="Registro"/>
+        android:title="Ofertas"/>
 
     <item android:id="@+id/clave"
         android:icon="@drawable/ic_manual"

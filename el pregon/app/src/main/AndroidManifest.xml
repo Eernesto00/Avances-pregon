@@ -13,35 +13,49 @@
         android:theme="@style/Theme.ElPregon"
         tools:targetApi="31">
         <activity
+            android:name=".Descuentos"
+            android:exported="false"
+            android:screenOrientation="portrait"/>
+        <activity
             android:name=".Producto14"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".Producto20"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".Producto19"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".Producto18"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".Producto17"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".Producto16"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".Producto15"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".Producto13"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".Producto12"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".Producto11"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".Manual"
             android:exported="false"
@@ -55,7 +69,7 @@
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".Registro"
+            android:name=".Ofertas"
             android:exported="false"
             android:screenOrientation="portrait" />
         <activity
