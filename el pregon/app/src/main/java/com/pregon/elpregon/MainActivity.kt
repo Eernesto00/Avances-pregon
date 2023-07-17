@@ -40,8 +40,8 @@ class MainActivity : AppCompatActivity() {
                 R.id.soporte -> {var intento1 = Intent(this, Ofertas::class.java)
                     startActivity(intento1)}
                     //Toast.makeText(this, "Registro Exitoso", Toast.LENGTH_LONG).show()//
-                R.id.clave -> Toast.makeText(this, "Bienvenido al Manual", Toast.LENGTH_LONG).show()
-
+                R.id.clave -> {var intento1 = Intent(this, Manualdeuso::class.java)
+                    startActivity(intento1)}
             }
             true
         }
