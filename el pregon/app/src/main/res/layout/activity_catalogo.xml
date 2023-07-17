@@ -37,7 +37,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:fontFamily="@font/carterone"
-                android:text="CATÁLOGO"
+                android:text="CATALOGO "
                 android:textColor="@color/amabase"
                 android:textSize="45sp"
                 />
